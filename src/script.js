@@ -42,8 +42,8 @@ let currentIndex = 0;
 let lightboxMode = null; // "main" or "sub"
 
 const imageSources = [
-    "/images/Katsin.gif",
     "/images/Cat Bath.gif",
+    "/images/Katsin.gif",
     "/images/Sheep Walk.gif",  
     "/images/Bird-Loop.gif",
     "/images/WalkCycle.gif",
