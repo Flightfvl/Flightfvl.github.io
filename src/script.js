@@ -44,15 +44,15 @@ let lightboxMode = null; // "main" or "sub"
 const imageSources = [
     "/images/Cat Bath.gif",
     "/images/Katsin.gif",
-    "/images/Sheep Walk.gif",  
+    "/../Sheep Walk.gif",  
     "/images/Bird-Loop.gif",
-    "/images/WalkCycle.gif",
+    "/../WalkCycle.gif",
 ];
 
 const subImageSources = [
-    "/images/Kiram_Ref.png",
+    "/../Kiram_Ref.png",
     "/images/Guide_Ref.png",
-    "/images/Ottie.png",
+    "/../Ottie.png",
 ];
 
 function openLightbox(index) {
